@@ -1,0 +1,61 @@
+/* Hailey Watson 4/19/2022 */
+/* this will be applied to the about and index pages */
+h1 {
+    font-family: initial;
+}
+
+h2{
+    color: darkorchid;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3{
+    color:mediumorchid;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+li{
+    padding-bottom: 10px;
+}
+
+.posts{
+    font-family: cursive;
+}
+
+.custom1{
+    background-color: powderblue;
+}
+
+.intro{
+    font-family:inherit;
+}
+
+.paddingSpace{
+    padding-bottom: 25px;
+}
+
+.color{
+    background-image: url('../images/HomeBottom-bg.jpg');
+}
+
+.portraitFrame{
+    padding-left: 150px;
+    padding-right: 200px;
+    margin: 25px;
+    border-right: darkcyan dotted;
+    border-width: 22px;
+    border-left: darkcyan dotted;
+    border-width: 22px;
+}
+
+.footerBox{
+    border-width: 3px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-style: double;
+    border-color: darkcyan;
+}
+
+.links{
+    color: darkcyan;
+}

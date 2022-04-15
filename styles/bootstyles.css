@@ -1,0 +1,55 @@
+/* Hailey Watson, 4/19/2022 */
+body{
+    background-color:lavender;
+    resize: both;
+}
+
+.headCenter{
+    text-align: center;
+}
+.headTitle{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    color:rgba(141, 53, 86, 0.973);
+}
+
+.subTitle{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    color:rgba(141, 53, 86, 0.973);
+}
+
+.tableauLeft{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.box{
+    border-width: 3px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-style: double;
+    border-color:rgba(141, 53, 86, 0.973);
+}
+
+.footerCenter{
+    text-align: center;
+}
+
+.linksRight{
+    text-align:right;
+    padding-right: 100px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+a:link{
+    color:rgba(141, 53, 86, 0.973);
+}
+
+a:hover{
+    color:rgba(86, 54, 107, 0.973);
+}    
+
+a:visited{
+    color:black;
+}
